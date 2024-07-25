@@ -67,7 +67,7 @@ export default function Contact() {
       </section>
       
       <footer class="bg-green-700 text-white text-center py-8">
-        <p>&copy; Copyright RENE'S USHERING 2024 . All rights reserved. Made with React⛵.</p>
+        <p>&copy; Copyright RENE'S USHERING 2024 . All rights reserved. Made with Freda⛵.</p>
       </footer>
     </div>
   )
